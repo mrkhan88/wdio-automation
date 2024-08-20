@@ -1,0 +1,4 @@
+{
+  "script": "browserstack_executor: {\"action\":\"annotate\",\"arguments\":{\"data\":\"Test: should have correct recent post count\",\"level\":\"info\"}}",
+  "args": []
+}
